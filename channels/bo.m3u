@@ -19,3 +19,11 @@ http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7lkIFVg.jpg" group-title="",Unitel
 http://136.243.3.70:1935/Unitel/Unitel/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="tv.zoymilton.com",ZoyTV Plus HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.zoymilton.com",ZoyTV Turcas HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.zoymilton.com",ZoyTV Bolivia HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvbo/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.zoymilton.com",ZoyTV Sports 1 HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
